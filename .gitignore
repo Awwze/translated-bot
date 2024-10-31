@@ -1,6 +1,6 @@
 venv/
 .idea
-__pyache__/
+__pycache__/
 .env
 translations.db
 database.db
